@@ -32,7 +32,7 @@ include("functions.php");
     <link rel="stylesheet" type="text/css" href="css/magnific-popup.css">
     <link rel="stylesheet" href="css/leaflet.css" type="text/css">
     <link rel="stylesheet" href="css/map.css" type="text/css">
-    <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.min.6e.del">
+   <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.min.6e.css">
     <link type="text/css" rel="stylesheet" href="fonts/bootstrap-icons/bootstrap-icons.6f.delay">
     <link rel="stylesheet" type="text/css" href="fonts/flaticon/font/flaticon.css">
     <link rel="stylesheet" type="text/css" href="fonts/linearicons/style.css">
@@ -42,6 +42,13 @@ include("functions.php");
     <link rel="stylesheet" type="text/css"  href="css/jnoty.css">
     <link rel="stylesheet" type="text/css"  href="css/slick.css">
 
+
+
+  <!-- Font Awesome -->
+  <!-- <link rel="stylesheet" href="_source/plugins/fontawesome-free/css/all.min.css"> -->
+  
+  
+  
     <!-- Custom stylesheet -->
     <link rel="stylesheet" type="text/css" href="css/initial.css">
     <link rel="stylesheet" type="text/css" href="css/style.css">
