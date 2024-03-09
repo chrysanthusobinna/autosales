@@ -213,7 +213,7 @@ include("functions.php");
 		 
 				$first_name					=			clean_input(ucwords($query_seller_user['first_name']));
 				$last_name					=			clean_input(ucwords($query_seller_user['last_name']));
-				$profile_picture			=			clean_input(ucwords($query_seller_user['profile_picture']));
+				$profile_picture			=			clean_input($query_seller_user['profile_picture']);
 			 
 			$phone_number							=			$query_seller_user['phone_number'];
 			$whatsapp_contact						=			$query_seller_user['whatsapp_contact'];
